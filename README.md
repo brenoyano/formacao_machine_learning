@@ -3,7 +3,7 @@ Código gerado durante a formação de machine learning da Alura
 
 ## Créditos
 Todo código contido neste repositório foi desenvolvido durante as aulas ministradas pelos professores da Alura e todo o crédito do código são dos respectivos professores e da Alura.
-##### <a href="https://github.com/alura-cursos">Alura Cursos</a>
+### <a href="https://github.com/alura-cursos">Alura Cursos</a>
 
 
 
